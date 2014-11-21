@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>img\Meco\Abajo.png</Source>
+      <Name>img\Meco\Abajo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Meco\Abajo.xnb</Output>
+      <Time>2012-11-09T18:16:01.2772923+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Meco\Arriba.png</Source>
+      <Name>img\Meco\Arriba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Meco\Arriba.xnb</Output>
+      <Time>2012-11-09T18:16:01.2772923+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Meco\Derecha.png</Source>
+      <Name>img\Meco\Derecha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Meco\Derecha.xnb</Output>
+      <Time>2012-11-09T18:16:01.2928924+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Meco\Izquierda.png</Source>
+      <Name>img\Meco\Izquierda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Meco\Izquierda.xnb</Output>
+      <Time>2012-11-09T18:16:01.2928924+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Cuadricula1024.png</Source>
+      <Name>img\Cuadricula1024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Cuadricula1024.xnb</Output>
+      <Time>2012-11-09T18:16:09.1085061+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\cuadricula1600.png</Source>
+      <Name>img\cuadricula1600</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\cuadricula1600.xnb</Output>
+      <Time>2012-11-09T18:16:09.1085061+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Herba.png</Source>
+      <Name>img\Herba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Herba.xnb</Output>
+      <Time>2012-11-09T18:16:09.1085061+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Interfaz\Corazon.png</Source>
+      <Name>img\Interfaz\Corazon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Interfaz\Corazon.xnb</Output>
+      <Time>2012-11-10T23:23:14.9091507+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Interfaz\InterfazSC.png</Source>
+      <Name>img\Interfaz\InterfazSC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Interfaz\InterfazSC.xnb</Output>
+      <Time>2012-11-10T23:25:07.0510021+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Enemigos\DarkShadow\Abajo.png</Source>
+      <Name>img\Enemigos\DarkShadow\Abajo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Enemigos\DarkShadow\Abajo.xnb</Output>
+      <Time>2012-11-11T18:50:03.2876456+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Enemigos\DarkShadow\Arriba.png</Source>
+      <Name>img\Enemigos\DarkShadow\Arriba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Enemigos\DarkShadow\Arriba.xnb</Output>
+      <Time>2012-11-11T18:50:03.2906458+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Enemigos\DarkShadow\Derecha.png</Source>
+      <Name>img\Enemigos\DarkShadow\Derecha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Enemigos\DarkShadow\Derecha.xnb</Output>
+      <Time>2012-11-11T18:50:03.2926459+01:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Enemigos\DarkShadow\Izquierda.png</Source>
+      <Name>img\Enemigos\DarkShadow\Izquierda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\img\Enemigos\DarkShadow\Izquierda.xnb</Output>
+      <Time>2012-11-11T18:50:03.294646+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\Hyrule.wav</Source>
+      <Name>sonidos\Hyrule</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\sonidos\Hyrule.xnb</Output>
+      <Time>2012-11-09T18:16:16.0529184+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-18T13:14:46.1918+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

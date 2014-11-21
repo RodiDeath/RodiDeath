@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RodiDeath">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath.sln">
+</Property><Property Name="Date" Value="martes, 18 de noviembre de 2014">
+</Property><Property Name="Time" Value="13:21">
+</Property><Property Name="Solution" Value="RodiDeath">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Rodi\Documents\Visual Studio 2010\Projects\RodiDeath\RodiDeath.sln">
+</Property><Property Name="Date" Value="martes, 18 de noviembre de 2014">
+</Property><Property Name="Time" Value="13:22:00">
+</Property></Properties><Event ErrorLevel="0" Project="RodiDeath" Source="RodiDeath\RodiDeath.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="RodiDeath" Source="RodiDeath\RodiDeath.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="RodiDeath" Source="RodiDeath\RodiDeath.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RodiDeath.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="RodiDeath.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RodiDeath" Source="RodiDeath\RodiDeath.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="RodiDeath" Source="RodiDeath\RodiDeath.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="RodiDeathContent" Source="RodiDeath\Content\RodiDeathContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

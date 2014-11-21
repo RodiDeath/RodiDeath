@@ -1,0 +1,14 @@
+Content\img\Meco\Abajo.xnb
+Content\img\Meco\Arriba.xnb
+Content\img\Meco\Derecha.xnb
+Content\img\Meco\Izquierda.xnb
+Content\img\Cuadricula1024.xnb
+Content\img\cuadricula1600.xnb
+Content\img\Herba.xnb
+Content\sonidos\Hyrule.xnb
+Content\img\Interfaz\Corazon.xnb
+Content\img\Interfaz\InterfazSC.xnb
+Content\img\Enemigos\DarkShadow\Abajo.xnb
+Content\img\Enemigos\DarkShadow\Arriba.xnb
+Content\img\Enemigos\DarkShadow\Derecha.xnb
+Content\img\Enemigos\DarkShadow\Izquierda.xnb
